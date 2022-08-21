@@ -209,7 +209,7 @@ When you **🏆 Win** **⚔ Fights** you will get **🌍 Rating**. Higher **🌍
 ### **Positions**
 
 | Name              | Range                                            |
-| ----------------- | ------------------------------------------------ |
+| :---------------- | :----------------------------------------------- |
 | **🥇 Champion**   | **1st** Place                                    |
 | **🥈 Challenger** | **2nd** Place                                    |
 | **🥉 Envious**    | **3rd** Place                                    |
@@ -229,7 +229,7 @@ When you **🏆 Win** **⚔ Fights** you will get **🌍 Rating**. Higher **🌍
 There's **3 Different Seasons**:
 
 | Season      | Start Date/Time      |
-| ----------- | -------------------- |
+| :---------- | :------------------- |
 | **Daily**   | UTC 00:00 AM         |
 | **Weekly**  | Sunday               |
 | **Monthly** | 1st day of the month |
@@ -243,7 +243,7 @@ To take part in the distribution of awards, boxers **must** score at least **10 
 For the position in the rating there are additional Bonuses:
 
 | Place             | Rewards                                                                   |
-| ----------------- | ------------------------------------------------------------------------- |
+| :---------------- | :------------------------------------------------------------------------ |
 | **🥇 Champion**   | **💰 200 Bonus Money** + **2 💎 Diamonds** + **Status**: **🀄️ Haymaker** |
 | **🥈 Challenger** | **💰 150 Bonus Money** + **Status**: **🎴 Ring Master**                   |
 | **🥉 Envious**    | **💰 100 Bonus Money** + **Status**: **🎗 Experienced warrior**            |
