@@ -2,7 +2,7 @@
 
 [Link to the game](https://www.google.com)
 
-[Telegram Community Group](https://www.google.com)
+[Telegram Community Group](https://t.me/haymakercommunitychat)
 
 ## **Contents** —
 
