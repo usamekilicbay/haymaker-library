@@ -1,4 +1,4 @@
-# **Haymaker Library**
+# **Haymaker Library 📑**
 
 [Link to the game](https://www.google.com)
 
