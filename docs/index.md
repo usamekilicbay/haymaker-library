@@ -21,16 +21,6 @@
 
 ---
 
-## **⭐ Skills** —
-
-| Skill               | Effects                                                                                 |
-| :------------------ | :-------------------------------------------------------------------------------------- |
-| **💪 Strength**     | Increases **💥 Damage** and **💫 Stun**                                                 |
-| **💗 Vigor**        | Increases **❤️ Vitality**, **🔋 Stamina**, **🛡 Guard** and **👁 Stun Resistence**        |
-| **✨ Intelligence** | Increases **🔰 Dodge**, **Accuracy**, **⚡ Counter**, **⏱ Timing** and **🔅 Willpower** |
-
----
-
 ## **🧬 Stats** —
 
 **🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by 0.3%. The opponent's **🔰 Dodge** decreases your **Accuracy** at the moment of calculating.
