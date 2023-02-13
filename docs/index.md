@@ -23,37 +23,37 @@
 
 ## **⭐ Skills** —
 
-| Skill               | Effects                                                                                    |
-| :------------------ | :----------------------------------------------------------------------------------------- |
-| **💪 Strength**     | Increases **💥 Damage** and **💫 Stun**                                                    |
-| **💗 Vigor**        | Increases **❤️ Vitality**, **🔋 Stamina**, **🛡 Guard** and **👁 Stun Resistence**           |
-| **✨ Intelligence** | Increases **🔰 Dodge**, **🎯 Accuracy**, **⚡ Counter**, **⏱ Timing** and **🔅 Willpower** |
+| Skill               | Effects                                                                                 |
+| :------------------ | :-------------------------------------------------------------------------------------- |
+| **💪 Strength**     | Increases **💥 Damage** and **💫 Stun**                                                 |
+| **💗 Vigor**        | Increases **❤️ Vitality**, **🔋 Stamina**, **🛡 Guard** and **👁 Stun Resistence**        |
+| **✨ Intelligence** | Increases **🔰 Dodge**, **Accuracy**, **⚡ Counter**, **⏱ Timing** and **🔅 Willpower** |
 
 ---
 
 ## **🧬 Stats** —
 
-**🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage, depends on hero’s **✨ Intelligence**. 1 point of **✨Intelligence** increases **🎯 Accuracy** by 0.3%. The opponent's **🔰 Dodge** decreases your **🎯 Accuracy** at the moment of counting.
+**🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by 0.3%. The opponent's **🔰 Dodge** decreases your **Accuracy** at the moment of calculating.
 
-**⚡️ Counter** — a chance modifier to dodge a successful hit of the opponent's, and inflict a succesful damage that amount of between **200% 💥Min Damage Damage - 180% 💥Max Damage Damage**. Depends on hero’s **(🎯 Accuracy + ⏱ Timing) / 2 + ⚡ Counter)**. 1 point of **✨Intelligence** increases **⚡️ Counter** by 0.3%. It is not the actual probability percentage, but the higher this characteristic is, the more likely it is to dodge the opponent's hit. The opponent's **🎯 Accuracy** decreases your **⚡ Counter** at the moment of counting.
+**⚡️ Counter** — a chance modifier to dodge a successful hit of the opponent's, and inflict a succesful damage that amount of between **200% Min Damage Damage - 180% Max Damage**. Depends on hero’s **(Accuracy + Timing) / 2 + Counter)**. 1 point increases **Counter** by 0.3%. It is not the actual probability percentage, but the higher this characteristic is, the more likely it is to dodge the opponent's hit. The opponent's **Accuracy** decreases your **Counter** at the moment of calculating.
 
-**💥 Damage** — injury that the boxer can cause in a case of a successful attack, depends on the **💪 Strength** of the hero. **💪 Strength** increases **Min 💥 Damage** by **1.5** and **Max 💥 Damage** by **2**.
+**💥 Damage** — injury that the boxer can cause in a case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
-**🔰 Dodge** — a chance modifier to dodge successful hit, depends on the boxer's **✨ Intelligence**. 1 point of **✨Intelligence** increases **🔰 Dodge** by 0.3%. Your **🔰 Dodge**, decreases opponent's **🎯 Accuracy** at the moment of counting.
+**🔰 Dodge** — a chance modifier to dodge successful hit. 1 point increases **Dodge** by 0.3%. Your **Dodge**, decreases opponent's **Accuracy** at the moment of calculating.
 
-**🛡 Guard** — the amount of damage that can be absorbed during the turn. Defense absorbs damage equal to **30%** of the boxer's **🛡 Defense** during 1 turn. **🛡 Defense** is not divided into strike zones.
+**🛡 Guard** — the amount of damage that can be absorbed during the turn. **Guard** absorbs **30%** of the incoming **Damage** of the opponent's during 1 turn. **Guard** is not divided into strike zones.
 
-**🔋 Stamina** — the energy amount for actions that can be perform during the match. **🔋 Stamina** required for some kind of actions, like: **🥊 Attack**, **🔰 Dodge** and **⚡ Counter**. Also **🔋 Stamina** required to attending a match. The required amount **🔋 Stamina** is depends on the action, and Levels. For example, **⚡ Counter** and **🥊 Powerful Attacks** consume more **🔋 Stamina**
+**🔋 Stamina** — the energy amount for actions that can be perform inside or the outside of the ring. **Stamina** is required for some kind of actions, in the match like: **Attack**, **Dodge** and **Counter**. Also **Stamina** required to attending a match. The required **Stamina** amount is depends on the action, and Levels. For example, **Counter** and **Powerful Attacks** consume more **Stamina**.
 
-**💫 Stun** — a chance modifier to stun opponent after a successful hit, depends on the boxer's **💪 Strength**. 1 point of **💪 Strength** increases **💫 Stun** by 0.1%. The opponent's **👁 Stun Resistence**, decreases the boxer's **💫 Stun** at the moment of counting.
+**💫 Stun** — a chance modifier to stun opponent after a successful hit, depends on the boxer's **Strength**. 1 point increases **Stun** by 0.1%. The opponent's **Stun Resistence** decreases the boxer's **Stun** at the moment of calculating.
 
-**👁 Stun Resistence** — a chance modifier to resist to stun after receiving the opponent's successful hit. Depends on the boxer's **💗 Vigor**. 1 point of **💗 Vigor** increases **👁 Stun Resistence** by 0.1%. The boxer's **👁 Stun Resistence**, decreases the opponent's **💫 Stun** at the moment of counting.
+**👁 Stun Resistence** — a chance modifier to resist to stun after receiving the opponent's successful hit. 1 point increases **Stun Resistence** by 0.1%. The boxer's **Stun Resistence** decreases the opponent's **Stun** chance at the moment of counting.
 
-**⏱ Timing** — a chance modifier to dodge successful hit, depends on the boxer's **✨ Intelligence**. 1 point of **✨Intelligence** increases **⏱ Timing** by 0.3%.
+**⏱ Timing** — a chance modifier to dodge successful hit. 1 point increases **Timing** by 0.3%.
 
-**❤️ Vitality** — the main unit of game. **Max ❤️ Vitality** depends on the boxer's **💗 Vigor**. 1 point of **💗 Vigor** increases **Max ❤️ Vitality** by 5 points. When the boxer get a hit, loses **❤️ Vitality**. The amount of lost **❤️ Vitality** is depends on the received damage. If **❤️ Vitality** reaches **0** during a match, the boxer will lose the fight. If the boxer has no **❤️ Vitality**, can not attend **⚔ Fights**. To gain some **❤️ Vitality**, can eat food, rest, or take a medical care, or can just wait. Every 30 seconds, the boxer will gain 1 **❤️ Vitality** until it reaches the **Max ❤️ Vitality**.
+**❤️ Vitality** — the main unit of game. 1 point increases **Vitality** by 5 units. When the boxer get a hit, loses **Vitality**. The amount of lost **Vitality** is depends on the received damage. If **Vitality** reaches **0** during a match, countdown will start. If the boxer can not stand before the countdown ends, will lose the fight. If the boxer's **Vitality** is under the treshold **(???)**, attending to **Fights** will not be possible. To gain some **Vitality**; can eat food, rest, or take a medical care, or can just wait. Every 30 seconds, the boxer will gain **1** **Vitality**.
 
-**🧠 Willpower** — effects the success chance of actions. If the boxer is low on **🧠 Willpower**; the boxer's **🛡 Guard** will be more penetrable, **💥 Damage**, **🎯 Accuracy** will reduce, also it will increase the amount of the received **💥 Damage** as well.
+**🧠 Willpower** — effects the success chance of continueing to fight. If the boxer is low on **Willpower**, chance to continue on fight will reduce.
 
 ---
 
@@ -65,15 +65,15 @@
 
 ### **👊 Training** —
 
-When you attend to **👊 Training**, it will increase some attributes. For example, if you do **🔥 Cardio** the **🔋 Stamina** will increase. If you do **🥊 Sparring** it will increase **🔰 Dodge**, **🎯 Accuracy**, **⚡ Counter** and **⏱ Timing**. But you should remember, **👊 Training** will cost for some amount of **🔋 Stamina**. The required **🔋 Stamina** is depends on the chosen **👊 Training** method.
+When you attend to a **Training**, it will increase some attributes. For example, if you do **Cardio** the **Stamina** will increase. If you do **Sparring** it will increase **Dodge**, **Accuracy**, **Counter** and **Timing**. But you should remember, **Training** will cost for some amount of **Stamina**. The required **Stamina** is depends on the chosen **Training** method.
 
-A quick **📝 Note**: You need **🔋 Stamina** to attend **⚔ Fights**.
+A quick **Note**: You need **Stamina** to attend **Fights**.
 
 ---
 
 ### **⚔ Fight** —
 
-**⚔ Fight** is simple, if you **K.O.** your opponent. You will **🏆 Win**. if your opponent **K.O.** you, then you will **☠ Lose**. If both of you are **K.O.** at same turn, then the winner will be the fighter who inflicted more **💥 Damage** to the opponent.
+**Fight** is simple, if you **K.O.** your opponent. You will **Win**. If your opponent **K.O.** you, guess what? You will **Lose**. If both of you are **K.O.** at same turn, then the winner will be the fighter who inflicted more **Damage** to the opponent.
 
 To **🏆 Win**, you have **8 options** (for now):
 
@@ -86,19 +86,19 @@ To **🏆 Win**, you have **8 options** (for now):
 | **✊ Left Uppercut**  |
 | **✊ Right Uppercut** |
 
-While **🥊 Attack** cost **🔋 Stamina**. **🛡 Guards** cost **nothing**. But **DO NOT FORGET**, in a draw case, the winner will be the fighter, who inflicted more **💥 Damage** to the opponent. Regarding that, **don't try to play 100% defensive.**
+While **Attack** cost **Stamina**. **🛡 Guards** cost **nothing**. But **DO NOT FORGET**, in a draw case, the winner will be the fighter, who inflicted more **Damage** to the opponent. Regarding that, **don't try to play 100% defensive.**
 
 ---
 
 ### **🦴 Recover** —
 
-When you get **💥 Damage** in a **⚔ Fight** or if **👊 Train** too hard, sometimes it may cause **🦴 Injuries**. If it happens, you have to **🦴 Recover** yourself. Ortherwise, your **Max 💥 Damage**, **🧠 Willpower**, **👁 Stun Resistence** , **🔋 Max Stamina** and **Max ❤️ Vitality** will reduce until you **🦴 Recover**. You can get **🩺 Medical Care**, or **💤 Rest** for a while to **🦴 Recover**.
+When the boxer gets **Damage** in a **Fight** or **Trains** too hard, sometimes it may cause **Injuries**. If it happens, boxer has to **Recover**. Ortherwise, your **Damage**, **Willpower**, **Stun Resistence** , **Max Stamina** and **Vitality** will reduce until you **Recover**. You can get **Medical Care**, or **Rest** for a while to **Recover**.
 
 ---
 
 ### **🎉 Enjoy** —
 
-Do not forget to **🎉 Enjoy** the life. **💼 Career** and **👊 Training** might be important. But you know, the **🧠 Willpower** works like a 💪 muscle. If you force it too much, you can cause some damage. If you are low on **🧠 Willpower**, you have to recover it by **🎉 Enjoy**. You can eat **🍕 Food** or buy **🚗 Property** for example.
+Do not forget to **Enjoy** the life. **Career** and **Training** might be important. But you know, the **Willpower** works like a muscle. If you force it too much, you can cause some damage. If you are low on **Willpower**, you have to recover it by **Enjoy**. You can eat **Food** or buy **Property** for example.
 
 ---
 
@@ -110,7 +110,7 @@ Do not forget to **🎉 Enjoy** the life. **💼 Career** and **👊 Training** 
 
 ### **There are only 2 currency for now:**
 
-**💰 Money** — is the main currency. When you attend a **⚔ Fight**, you will get some amount of money. It depends on your **🌍 Rating**. If you win **⚔ Fightsyou **will get more money. But even if you lose, still you will get some money. You can buy **🍕 Food**, **🩺 Medical Care**, **🚗 Property**
+**💰 Money** — is the main currency. When you attend a **Fight**, you will get some amount of money. It depends on your **Rating**. If you win **Fights** you will get more money. But even if you lose, still you will get some money. You can buy **Food**, **Medical Care**, **Property**
 
 **💎 Diamond** — is the special currency. You can earn in game, but it might be hard. Also you can buy it with IAP (in app puchase)
 
@@ -162,7 +162,7 @@ Here’s the table:
 
 ### **Gaining experience:**
 
-Your boxer gets experience for every **⚔️ Fight** on the ring. When you gain a certain amount of **🌟 Experience**, the **Level** of your boxer rises.
+Your boxer gets experience for every **Fight** on the ring. When you gain a certain amount of **Experience** you will **Level Up**.
 
 Here’s the experience table:
 
@@ -204,7 +204,7 @@ Here’s the experience table:
 
 ## **👑 Leaderboard** —
 
-When you **🏆 Win** **⚔ Fights** you will get **🌍 Rating**. Higher **🌍 Rating** will place higher place. Regarding your place in the **👑 Leaderboard**, you will get some amount of **💰 Money** end of the **📆 Season**.
+When you **Win** a fight you will get **Rating**. Higher **Rating** will increase your place in the **Leaderboard**. Regarding your place in the **Leaderboard**, you will get some amount of **Money** end of the **Season**.
 
 ### **Positions**
 
@@ -236,17 +236,17 @@ There's **3 Different Seasons**:
 
 ---
 
-At the end of the week and month, figthers receive rewards in accordance with their **🌍 Rating**. Players holding positions in **🥇 Champion**, **🥈 Challenger** **🥉 Envious**, **🏅 TOP-10**, **🎖 TOP-25** receive additional Bonuses at the end of the season.
+At the end of the week and month, figthers receive rewards in accordance with their **Rating**. Players holding positions in **🥇 Champion**, **🥈 Challenger** **🥉 Zealous**, **🏅 TOP-10**, **🎖 TOP-25** receive additional Bonuses at the end of the season.
 
-To take part in the distribution of awards, boxers **must** score at least **10 🌍 Rating** points.
+To take part in the distribution of awards, boxers **must** score at least **10 Rating** points.
 
 For the position in the rating there are additional Bonuses:
 
 | Place             | Rewards                                                                   |
 | :---------------- | :------------------------------------------------------------------------ |
 | **🥇 Champion**   | **💰 200 Bonus Money** + **2 💎 Diamonds** + **Status**: **🀄️ Haymaker** |
-| **🥈 Challenger** | **💰 150 Bonus Money** + **Status**: **🎴 Ring Master**                   |
-| **🥉 Envious**    | **💰 100 Bonus Money** + **Status**: **🎗 Experienced warrior**            |
+| **🥈 Challenger** | **💰 150 Bonus Money** + **Status**: **🎴 Rope-a-Dope**                   |
+| **🥉 Envious**    | **💰 100 Bonus Money** + **Status**: **⚕️ Corkscrew**                     |
 | **🏅 TOP-10**     | **💰 50 Bonus Money**                                                     |
 | **🎖 TOP-25**      | **💰 25 Bonus Money**                                                     |
 
