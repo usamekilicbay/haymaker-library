@@ -25,7 +25,7 @@
 
 **🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by 0.3%. The opponent's **🔰 Dodge** decreases your **Accuracy** at the moment of calculating.
 
-**⚡️ Counter** — a chance modifier to dodge a successful hit of the opponent's, and inflict a succesful damage that amount of between **200% Min Damage Damage - 180% Max Damage**. Depends on hero’s **(Accuracy + Timing) / 2 + Counter)**. 1 point increases **Counter** by 0.3%. It is not the actual probability percentage, but the higher this characteristic is, the more likely it is to dodge the opponent's hit. The opponent's **Accuracy** decreases your **Counter** at the moment of calculating.
+**⚡️ Counter** — a **Damage** multiplier for the next attack. Executes by a chance calculation based on boxer’s **Accuracy** and **Timing**, and the opponent's **Dodge** stats. 1 point increases **Counter** by **0.3%**.
 
 **💥 Damage** — injury that the boxer can cause in a case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
