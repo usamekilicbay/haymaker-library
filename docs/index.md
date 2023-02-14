@@ -23,35 +23,35 @@
 
 ## **🧬 Stats** —
 
-**🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by **0.3%**.
+**[🎯 Accuracy]** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by **0.3%**.
 
 Used by:
 
 1. **💣 Counter**
 2. **(?)**
 
-**⚡️ Critical Hit** — a **Damage** multiplier for the next attack. Can be executed by **(?)** ways:
+**[⚡️ Critical Hit]** — a **Damage** multiplier for the next attack. Can be executed by **(?)** ways:
 
 1.  Triggering a **Counter** attack.
 2.  **(?)**
 
-**💥 Damage** — that the boxer can cause in that case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
+**[💥 Damage]** — that the boxer can cause in that case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
-**🔰 Dodge** — a chance modifier to dodge successful hit. 1 point increases **Dodge** by 0.3%. Your **Dodge**, decreases opponent's **Accuracy** at the moment of calculating.
+**[🔰 Dodge]** — a chance modifier to dodge successful hit. 1 point increases **Dodge** by 0.3%. Your **Dodge**, decreases opponent's **Accuracy** at the moment of calculating.
 
-**🛡 Guard** — the amount of damage that can be absorbed during the turn. **Guard** absorbs **30%** of the incoming **Damage** of the opponent's during 1 turn. **Guard** is not divided into strike zones.
+**[🛡 Guard]** — the amount of damage that can be absorbed during the turn. **Guard** absorbs **30%** of the incoming **Damage** of the opponent's during 1 turn. **Guard** is not divided into strike zones.
 
-**🔋 Stamina** — the energy amount for actions that can be perform inside or the outside of the ring. **Stamina** is required for some kind of actions, in the match like: **Attack**, **Dodge** and **Counter**. Also **Stamina** required to attending a match. The required **Stamina** amount is depends on the action, and Levels. For example, **Counter** and **Powerful Attacks** consume more **Stamina**.
+**[🔋 Stamina]** — the energy amount for actions that can be perform inside or the outside of the ring. **Stamina** is required for some kind of actions, in the match like: **Attack**, **Dodge** and **Counter**. Also **Stamina** required to attending a match. The required **Stamina** amount is depends on the action, and Levels. For example, **Counter** and **Powerful Attacks** consume more **Stamina**.
 
-**💫 Stun** — a chance modifier to stun opponent after a successful hit, depends on the boxer's **Strength**. 1 point increases **Stun** by 0.1%. The opponent's **Stun Resistence** decreases the boxer's **Stun** at the moment of calculating.
+**[💫 Stun]** — a chance modifier to stun opponent after a successful hit, depends on the boxer's **Strength**. 1 point increases **Stun** by 0.1%. The opponent's **Stun Resistence** decreases the boxer's **Stun** at the moment of calculating.
 
-**👁 Stun Resistence** — a chance modifier to resist to stun after receiving the opponent's successful hit. 1 point increases **Stun Resistence** by 0.1%. The boxer's **Stun Resistence** decreases the opponent's **Stun** chance at the moment of counting.
+**[👁 Stun Resistence]** — a chance modifier to resist to stun after receiving the opponent's successful hit. 1 point increases **Stun Resistence** by 0.1%. The boxer's **Stun Resistence** decreases the opponent's **Stun** chance at the moment of counting.
 
-**⏱ Timing** — a chance modifier to dodge successful hit. 1 point increases **Timing** by 0.3%.
+**[⏱ Timing]** — a chance modifier to dodge successful hit. 1 point increases **Timing** by 0.3%.
 
-**❤️ Vitality** — the main unit of game. 1 point increases **Vitality** by 5 units. When the boxer get a hit, loses **Vitality**. The amount of lost **Vitality** is depends on the received damage. If **Vitality** reaches **0** during a match, countdown will start. If the boxer can not stand before the countdown ends, will lose the fight. If the boxer's **Vitality** is under the treshold **(???)**, attending to **Fights** will not be possible. To gain some **Vitality**; can eat food, rest, or take a medical care, or can just wait. Every 30 seconds, the boxer will gain **1** **Vitality**.
+**[❤️ Vitality]** — the main unit of game. 1 point increases **Vitality** by 5 units. When the boxer get a hit, loses **Vitality**. The amount of lost **Vitality** is depends on the received damage. If **Vitality** reaches **0** during a match, countdown will start. If the boxer can not stand before the countdown ends, will lose the fight. If the boxer's **Vitality** is under the treshold **(???)**, attending to **Fights** will not be possible. To gain some **Vitality**; can eat food, rest, or take a medical care, or can just wait. Every 30 seconds, the boxer will gain **1** **Vitality**.
 
-**🧠 Willpower** — effects the success chance of continueing to fight. If the boxer is low on **Willpower**, chance to continue on fight will reduce.
+**[🧠 Willpower]** — effects the success chance of continueing to fight. If the boxer is low on **Willpower**, chance to continue on fight will reduce.
 
 ---
 
