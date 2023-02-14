@@ -43,7 +43,11 @@ Used by:
 
 ---
 
-**[🔰 Dodge]** — a chance modifier to dodge successful hit. 1 point increases **Dodge** by 0.3%. Your **Dodge**, decreases opponent's **Accuracy** at the moment of calculating.
+**[🔰 Dodge]** — a chance modifier to avoid an incoming attack. 1 point increases **Dodge** by **0.3%**.
+
+Used by:
+
+1. **💣 Counter**
 
 ---
 
