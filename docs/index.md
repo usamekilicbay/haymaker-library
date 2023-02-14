@@ -41,6 +41,10 @@ Used by:
 
 **[💥 Damage]** — a unit that the boxer can reduce opponents **Vitality** that the case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
+Used by:
+
+1. **⚡Critical Hit**
+
 ---
 
 **[🔰 Dodge]** — a chance modifier to avoid an incoming attack. 1 point increases **Dodge** by **0.3%**.
