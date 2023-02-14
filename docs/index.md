@@ -25,7 +25,10 @@
 
 **🎯 Accuracy** ‒ a chance modifier to successful hit and deal damage. 1 point increases **Accuracy** by 0.3%. The opponent's **🔰 Dodge** decreases your **Accuracy** at the moment of calculating.
 
-**⚡️ Counter** — a **Damage** multiplier for the next attack. Executes by a chance calculation based on boxer’s **Accuracy** and **Timing**, and the opponent's **Dodge** stats. 1 point increases **Counter** by **0.3%**.
+**⚡️ Critical Hit** — a **Damage** multiplier for the next attack. Can be executed by **(?)** ways:
+
+1.  Triggering a **Counter** attack.
+2.  **(?)**
 
 **💥 Damage** — injury that the boxer can cause in a case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
