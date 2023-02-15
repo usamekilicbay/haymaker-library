@@ -55,7 +55,7 @@ Used by:
 
 ---
 
-**[🛡 Guard]** — the amount of damage that can be absorbed during the turn. **Guard** absorbs **30%** of the incoming **Damage** of the opponent's during 1 turn. **Guard** is not divided into strike zones.
+**[🛡 Guard]** — the amount of damage that can be absorbed. **Guard** absorbs **30%** of the incoming **Damage** of the opponent's during 1 turn.
 
 ---
 
