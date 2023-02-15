@@ -79,7 +79,7 @@ Used by:
 
 ---
 
-**[🧠 Willpower]** — effects the success chance of continueing to fight. If the boxer is low on **Willpower**, chance to continue on fight will reduce.
+**[🧠 Willpower]** — is required to **Train**. Also, if the boxer is low on **Willpower** will not be able to stand within the countdown.
 
 ---
 
