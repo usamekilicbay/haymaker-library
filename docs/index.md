@@ -63,7 +63,11 @@ Used by:
 
 ---
 
-**[💫 Stun]** — a chance modifier to stun opponent after a successful hit, depends on the boxer's **Strength**. 1 point increases **Stun** by 0.1%. The opponent's **Stun Resistence** decreases the boxer's **Stun** at the moment of calculating.
+**[💫 Stun]** — a chance modifier to **Stun** opponent with the next hit. 1 point increases **Stun** by 0.1%.
+
+Calculated with:
+
+1. The opponent's **Stun Resistence**
 
 ---
 
