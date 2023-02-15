@@ -59,7 +59,17 @@ Used by:
 
 ---
 
-**[🔋 Stamina]** — the energy amount for actions that can be perform inside or the outside of the ring. **Stamina** is required for some kind of actions, in the match like: **Attack**, **Dodge** and **Counter**. Also **Stamina** required to attending a match. The required **Stamina** amount is depends on the action, and Levels. For example, **Counter** and **Powerful Attacks** consume more **Stamina**.
+**[🔋 Stamina]** — the energy unit that required for some actions that can be perform inside or the outside of the ring. The required **Stamina** amount is depends on the action's itself. For example, **Counter Attack** or **Sparring Training** consume more **Stamina** than average.
+
+Required for:
+
+- Attending matches
+- During the match:
+  - **Attack**
+  - **Dodge**
+  - **Counter**
+- Outside of the match:
+  - **Trainings**
 
 ---
 
