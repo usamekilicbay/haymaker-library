@@ -40,7 +40,7 @@ Triggers:
 
 ---
 
-**[💥 Damage]** — a unit that the boxer can reduce opponents **Vitality** that the case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
+**[💥 Damage]** — a unit that the boxer inflicts to opponents to reduce his **Vitality** in case of a successful attack. 1 point increases **Min Damage** by **1.5** and **Max Damage** by **2**.
 
 Used by:
 
