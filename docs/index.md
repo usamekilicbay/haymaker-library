@@ -71,7 +71,11 @@ Used by:
 
 ---
 
-**[⏱ Timing]** — a chance modifier to dodge successful hit. 1 point increases **Timing** by 0.3%.
+**[⏱ Timing]** — a chance modifier to. 1 point increases **Timing** by **0.3%**.
+
+Used by:
+
+1. **Dodge**
 
 ---
 
