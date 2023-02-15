@@ -32,10 +32,11 @@ Used by:
 
 ---
 
-**[⚡️ Critical Hit]** — a **Damage** multiplier for the next attack. Can be executed by **(?)** ways:
+**[⚡️ Critical Hit]** — a **Damage** multiplier for the next attack.
 
-1.  Triggering a **Counter** attack.
-2.  **(?)**
+Triggers:
+
+1.  **Counter**
 
 ---
 
