@@ -23,10 +23,10 @@
 
 ## **⭐ Skills** —
 
-| Skill               | Effects                                                                                 |
-| :------------------ | :-------------------------------------------------------------------------------------- |
-| **💪 Strength**     | Increases **💥 Damage** and **💫 Stun**                                                 |
-| **💗 Vigor**        | Increases **❤️ Vitality**, **🔋 Stamina**, **🛡 Guard** and **👁 Stun Resistence**        |
+| Skill              | Effects                                                                              |
+| :----------------- | :----------------------------------------------------------------------------------- |
+| **💪 Strength**     | Increases **💥 Damage** and **💫 Stun**                                                |
+| **💗 Vigor**        | Increases **❤️ Vitality**, **🔋 Stamina**, **🛡 Guard** and **👁 Stun Resistence**       |
 | **✨ Intelligence** | Increases **🔰 Dodge**, **Accuracy**, **⚡ Counter**, **⏱ Timing** and **🔅 Willpower** |
 
 ---
@@ -78,7 +78,7 @@ A quick **Note**: You need **Stamina** to attend **Fights**.
 To **🏆 Win**, you have **8 options** (for now):
 
 | **🥊 Attack**         | **🛡 Guards**     |
-| :-------------------- | :--------------- |
+| :------------------- | :--------------- |
 | **👊 Jab**            | **🛡 Head Guard** |
 | **👊 Straight**       | **🛡 Body Guard** |
 | **🤜 Left Hook**      |
@@ -208,13 +208,13 @@ When you **Win** a fight you will get **Rating**. Higher **Rating** will increas
 
 ### **Positions**
 
-| Name              | Range                                            |
-| :---------------- | :----------------------------------------------- |
+| Name             | Range                                            |
+| :--------------- | :----------------------------------------------- |
 | **🥇 Champion**   | **1st** Place                                    |
 | **🥈 Challenger** | **2nd** Place                                    |
-| **🥉 Envious**    | **3rd** Place                                    |
+| **🥉 Contender**  | **3rd** Place                                    |
 | **🏅 TOP-10**     | **3th** (excluded) - **10th** (included) Places  |
-| **🎖 TOP-25**      | **10th** (excluded) - **25th** (included) Places |
+| **🎖 TOP-25**     | **10th** (excluded) - **25th** (included) Places |
 
 ---
 
@@ -236,19 +236,19 @@ There's **3 Different Seasons**:
 
 ---
 
-At the end of the week and month, figthers receive rewards in accordance with their **Rating**. Players holding positions in **🥇 Champion**, **🥈 Challenger** **🥉 Zealous**, **🏅 TOP-10**, **🎖 TOP-25** receive additional Bonuses at the end of the season.
+At the end of the week and month, figthers receive rewards in accordance with their **Rating**. Players holding positions in **🥇 Champion**, **🥈 Challenger** **🥉 Contender**, **🏅 TOP-10**, **🎖 TOP-25** receive additional Bonuses at the end of the season.
 
 To take part in the distribution of awards, boxers **must** score at least **10 Rating** points.
 
 For the position in the rating there are additional Bonuses:
 
-| Place             | Rewards                                                                   |
-| :---------------- | :------------------------------------------------------------------------ |
+| Place            | Rewards                                                               |
+| :--------------- | :-------------------------------------------------------------------- |
 | **🥇 Champion**   | **💰 200 Bonus Money** + **2 💎 Diamonds** + **Status**: **🀄️ Haymaker** |
-| **🥈 Challenger** | **💰 150 Bonus Money** + **Status**: **🎴 Rope-a-Dope**                   |
-| **🥉 Envious**    | **💰 100 Bonus Money** + **Status**: **⚕️ Corkscrew**                     |
-| **🏅 TOP-10**     | **💰 50 Bonus Money**                                                     |
-| **🎖 TOP-25**      | **💰 25 Bonus Money**                                                     |
+| **🥈 Challenger** | **💰 150 Bonus Money** + **Status**: **🎴 Rope-a-Dope**                 |
+| **🥉 Contender**  | **💰 100 Bonus Money** + **Status**: **⚕️ Corkscrew**                   |
+| **🏅 TOP-10**     | **💰 50 Bonus Money**                                                  |
+| **🎖 TOP-25**     | **💰 25 Bonus Money**                                                  |
 
 ---
 
